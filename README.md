@@ -38,6 +38,7 @@ Alright! Now that you know how a chatbot works at a high level, let's get starte
 
 
 Choosing a model:
+
 Choosing the right model for your purposes is an important part of building chatbots! You can read on the different types of models available on the Hugging Face website: https://huggingface.co/models.
 
 LLMs differ from each other in how they are trained. Let's look at some examples to see how different models fit better in various contexts.
